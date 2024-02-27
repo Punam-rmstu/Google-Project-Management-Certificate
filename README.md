@@ -48,7 +48,7 @@ The company's values and personality, plays a vital role. It influences aspects 
 **Change Management:**
 Change Management is crucial for successful project implementation. It involves fostering a sense of ownership among stakeholders, assembling a team with the right skills and personalities, and establishing a clear vision and communication strategy to motivate everyone involved. 
 
-## Formal Change :**
+**Formal Change :**
 Formal Change Management in Matrix Organizations,involves meeting with representatives from different departments and stakeholders, explaining the budget impact, and writing a document describing the budget, timeline, and training for the change. Feedback and alignment from stakeholders are crucial for assessing the success of the change process.
 
 Understanding organizational structure, culture, and change management processes is essential for navigating project management effectively.
