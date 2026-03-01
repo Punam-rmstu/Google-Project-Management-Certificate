@@ -1,4 +1,9 @@
-# Project Management
+# Google Project Management Certificate
+
+This repository contains my summarized learnings and findings from the **Google Project Management Certificate** course, completed as part of my industrial attachment at Celloscope.  
+
+The purpose of this repository is to document the key concepts, techniques, and practical insights I gained from the course, including project planning, task management, Agile practices, and effective team collaboration.
+
 
 ## Introduction:
 Project management is a cornerstone of organizational success, offering a structured approach to achieving objectives, managing resources, and delivering results within specified constraints. This document synthesizes key insights gleaned from various sources, highlighting essential principles, methodologies, and skills essential for navigating modern business endeavors.
