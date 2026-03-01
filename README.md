@@ -4,6 +4,57 @@ This repository contains my summarized learnings and findings from the **Google 
 
 The purpose of this repository is to document the key concepts, techniques, and practical insights I gained from the course, including project planning, task management, Agile practices, and effective team collaboration.
 
+# Table of Contents
+
+1. [Introduction](#introduction)  
+2. [The Essential Role of Project Management](#the-essential-role-of-project-management)  
+   - [Value of Project Managers](#value-of-project-managers)  
+   - [Daily Responsibilities](#daily-responsibilities)  
+3. [Understanding Project Structures, Life Cycles, and Methodologies](#understanding-project-structures-life-cycles-and-methodologies)  
+4. [Navigating Opportunities in Project Management Careers](#navigating-opportunities-in-project-management-careers)  
+5. [Understanding the Landscape: Organizational Structure, Culture, and Change Management](#understanding-the-landscape-organizational-structure-culture-and-change-management)  
+   - [Organizational Structure](#organizational-structure)  
+   - [Organizational Culture](#organizational-culture)  
+   - [Change Management](#change-management)  
+   - [Formal Change](#formal-change)  
+6. [Cultivating Effective Meetings](#cultivating-effective-meetings)  
+   - [Structured and Intentional Meetings](#structured-and-intentional-meetings)  
+   - [Collaborative and Inclusive Environment](#collaborative-and-inclusive-environment)  
+   - [Tips for Inclusivity](#tips-for-inclusivity)  
+7. [Effective Communication as a Project Manager](#effective-communication-as-a-project-manager)  
+8. [Demystifying Project Initiation: The Cornerstone of Success](#demystifying-project-initiation-the-cornerstone-of-success)  
+   - [Key Components](#key-components)  
+9. [Stakeholder Management](#stakeholder-management)  
+   - [Understanding Project Roles](#understanding-project-roles)  
+   - [Effective Stakeholder Analysis](#effective-stakeholder-analysis)  
+   - [Power Grid](#power-grid)  
+   - [RACI Chart](#raci-chart)  
+10. [Importance of SMART Goals and Success Criteria](#importance-of-smart-goals-and-success-criteria)  
+11. [Importance of Resource Management and Documentation](#importance-of-resource-management-and-documentation)  
+12. [Importance of Risk Management](#importance-of-risk-management)  
+13. [Benefits of Project Planning](#benefits-of-project-planning)  
+14. [Importance of Effective Communication](#importance-of-effective-communication)  
+15. [Project Planning Essentials](#project-planning-essentials)  
+16. [Project Budgeting and Management](#project-budgeting-and-management)  
+17. [Leadership vs Management in a Successful Team](#leadership-vs-management-in-a-successful-team)  
+18. [Storytelling with Data to Make Decisions](#storytelling-with-data-to-make-decisions)  
+19. [Quality Management and Continuous Improvement](#quality-management-and-continuous-improvement)  
+20. [How and When to Close a Project](#how-and-when-to-close-a-project)  
+21. [Effective Project Management](#effective-project-management)  
+22. [Effective Project Tracking](#effective-project-tracking)  
+23. [Scrum Framework: Core Values and Essential Roles](#scrum-framework-core-values-and-essential-roles)  
+   - [Key Roles](#key-roles)  
+   - [Collaboration for Success](#collaboration-for-success)  
+24. [Agile Project Management](#agile-project-management)  
+25. [Project Closure Essentials](#project-closure-essentials)  
+   - [Communication](#communication)  
+   - [Documentation](#documentation)  
+   - [Reflection](#reflection)  
+26. [Planning, Negotiating, and Successful Project Initiation](#planning-negotiating-and-successful-project-initiation)  
+27. [Building a Strong Project Plan with Google Sheets](#building-a-strong-project-plan-with-google-sheets)  
+28. [Evaluating and Ensuring Project Success](#evaluating-and-ensuring-project-success)  
+29. [Conclusion](#conclusion)
+
 
 ## Introduction:
 Project management is a cornerstone of organizational success, offering a structured approach to achieving objectives, managing resources, and delivering results within specified constraints. This document synthesizes key insights gleaned from various sources, highlighting essential principles, methodologies, and skills essential for navigating modern business endeavors.
@@ -405,3 +456,6 @@ By implementing these practices, project managers can ensure project success and
 ## Conclusion:
 
 In conclusion, effective project management hinges on key principles such as clear communication, meticulous planning, risk management, and continuous improvement. Utilizing tools like project charters, communication plans, and risk registers ensures transparency, accountability, and alignment among stakeholders. Proper resource management and documentation facilitate project success by mitigating risks, managing costs, and clarifying responsibilities. Stakeholder engagement and the use of appropriate project management tools enhance visibility and collaboration throughout the project lifecycle. Adapting to new tools and methodologies, such as Agile and Scrum, enables teams to respond flexibly to changing project requirements and market conditions. Ultimately, by prioritizing quality, customer satisfaction, and value delivery, project managers can achieve successful project outcomes and drive organizational success.
+
+## Author:
+Punam Kanungoe
