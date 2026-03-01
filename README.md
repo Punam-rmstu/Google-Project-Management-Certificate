@@ -457,5 +457,7 @@ By implementing these practices, project managers can ensure project success and
 
 In conclusion, effective project management hinges on key principles such as clear communication, meticulous planning, risk management, and continuous improvement. Utilizing tools like project charters, communication plans, and risk registers ensures transparency, accountability, and alignment among stakeholders. Proper resource management and documentation facilitate project success by mitigating risks, managing costs, and clarifying responsibilities. Stakeholder engagement and the use of appropriate project management tools enhance visibility and collaboration throughout the project lifecycle. Adapting to new tools and methodologies, such as Agile and Scrum, enables teams to respond flexibly to changing project requirements and market conditions. Ultimately, by prioritizing quality, customer satisfaction, and value delivery, project managers can achieve successful project outcomes and drive organizational success.
 
-## Author:
+
+
+## Author
 Punam Kanungoe
